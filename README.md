@@ -1,6 +1,7 @@
 # Setup
+Install go from: [official site](https://golang.org/doc/install)
 ```
-git clone github.com/akshitj1/squadpark.git
+git clone git@github.com:akshitj1/squadpark.git
 cd squadpark
 ```
 
