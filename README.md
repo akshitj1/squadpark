@@ -9,7 +9,7 @@ cd squadpark
 `go run sim.go input.txt`
 
 # Run tests
-`go test ./...`
+`go test ./... -v`
 
 ## Assumptions
 - Reg. No. will only be validated for length. not for format
